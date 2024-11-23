@@ -10,7 +10,7 @@ export default function Contact() {
       <div className="grid md:grid-cols-2 gap-12">
         <div>
           <h2 className="text-2xl font-semibold mb-4">Get in Touch</h2>
-          <p className="mb-4">We'd love to hear from you. Please fill out the form or use our contact information to reach us.</p>
+          <p className="mb-4">We&apos;d love to hear from you. Please fill out the form or use our contact information to reach us.</p>
           <div className="space-y-2">
             <p><strong>Address:</strong> Ramapuram, Chennai - 600089, Tamil Nadu, India</p>
             <p><strong>Email:</strong> mca@eec.edu.in</p>
