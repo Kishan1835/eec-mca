@@ -1,7 +1,5 @@
 module.exports = {
-    reactStrictMode: true,
-    // ... other configurations ...
-    images: {
-        // No need to include external domains if not using them
+    env: {
+        NEXT_PUBLIC_DISABLE_VERCEL_TOOLBAR: 'true',
     },
 };
